@@ -1,6 +1,7 @@
 This file describes a short definition on how to deploy and connect to the application.
 
-1. Deploy the application to a server using the Jar file provided.
+1. Deploy the application to a server using the Jar
+/target/notes-0.0.1-SNAPSHOT.jar
 2. Connect to the API based on the configuration made in the server 
     
     Create a note: POST http://localhost:8080/users
